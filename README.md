@@ -28,15 +28,15 @@ A beautiful, modern iOS drink ordering app built with SwiftUI featuring glass mo
 ## 📸 Screenshots
 
 <p float="left">
-  <img src="ScreenShots/home.png" width="250" />
-  <img src="ScreenShots/detail.png" width="250" /> 
-  <img src="ScreenShots/cart.png" width="250" />
+  <img src="screenshots/home.png" width="250" />
+  <img src="screenshots/detail.png" width="250" /> 
+  <img src="screenshots/cart.png" width="250" />
 </p>
 
 ---
 
 ### 🏠 Home Screen
-<img src="ScreenShots/home.png" width="300" alt="Home Screen">
+<img src="screenshots/home.png" width="300" alt="Home Screen">
 
 **Features:**
 - Swipeable drink carousel with smooth page transitions
@@ -48,7 +48,7 @@ A beautiful, modern iOS drink ordering app built with SwiftUI featuring glass mo
 ---
 
 ### 🍹 Product Detail
-<img src="ScreenShots/detail.png" width="300" alt="Product Detail">
+<img src="screenshots/detail.png" width="300" alt="Product Detail">
 
 **Features:**
 - Choose from 3 sizes (Small, Medium, Large) with live price updates
@@ -60,7 +60,7 @@ A beautiful, modern iOS drink ordering app built with SwiftUI featuring glass mo
 ---
 
 ### 🛒 Shopping Cart
-<img src="ScreenShots/cart.png" width="300" alt="Shopping Cart">
+<img src="screenshots/cart.png" width="300" alt="Shopping Cart">
 
 **Features:**
 - Smart item merging (same product + size combines automatically)
