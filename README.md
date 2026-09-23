@@ -1,4 +1,4 @@
-<img width="1206" height="2622" alt="home" src="https://github.com/user-attachments/assets/f9ea03a5-17b5-4779-89be-caa414b58331" /># ☕️ Drinks Cafe - iOS App
+# ☕️ Drinks Cafe - iOS App
 
 A beautiful, modern iOS drink ordering app built with SwiftUI featuring glass morphism design, real-time cart management, and persistent order history.
 
@@ -27,10 +27,11 @@ A beautiful, modern iOS drink ordering app built with SwiftUI featuring glass mo
 
 ## 📸 Screenshots
 
-<img width="1206" height="2622" alt="home" src="https://github.com/user-attachments/assets/e0b67fb6-b5c9-4288-a9aa-50e97bd6b12e" />
-<img width="1206" height="2622" alt="detail " src="https://github.com/user-attachments/assets/33257517-e38c-4e64-8593-c6db13f7dd30" />
-<img width="1206" height="2622" alt="cart" src="https://github.com/user-attachments/assets/d2e42151-2ed9-40d4-beeb-171590b3acb8" />
-
+<p float="left">
+  <img width="250" alt="home" src="https://github.com/user-attachments/assets/e0b67fb6-b5c9-4288-a9aa-50e97bd6b12e" />
+  <img width="250" alt="detail" src="https://github.com/user-attachments/assets/33257517-e38c-4e64-8593-c6db13f7dd30" />
+  <img width="250" alt="cart" src="https://github.com/user-attachments/assets/d2e42151-2ed9-40d4-beeb-171590b3acb8" />
+</p>
 
 ---
 
