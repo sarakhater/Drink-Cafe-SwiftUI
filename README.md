@@ -35,42 +35,6 @@ A beautiful, modern iOS drink ordering app built with SwiftUI featuring glass mo
 
 ---
 
-### 🏠 Home Screen
-<img src="screenshots/home.png" width="300" alt="Home Screen">
-
-**Features:**
-- Swipeable drink carousel with smooth page transitions
-- Real-time search functionality
-- Category filter chips (Hot, Cold, Smoothie)
-- Dynamic gradient background adapting to selected drink
-- High-quality product images from Unsplash
-
----
-
-### 🍹 Product Detail
-<img src="screenshots/detail.png" width="300" alt="Product Detail">
-
-**Features:**
-- Choose from 3 sizes (Small, Medium, Large) with live price updates
-- Adjustable quantity with intuitive +/- buttons
-- Real-time total calculation
-- Favorite toggle to save drinks
-- Smooth bouncy animations
-
----
-
-### 🛒 Shopping Cart
-<img src="screenshots/cart.png" width="300" alt="Shopping Cart">
-
-**Features:**
-- Smart item merging (same product + size combines automatically)
-- Quantity adjustment controls
-- Swipe-to-delete gestures
-- Live total with animated number transitions
-- One-tap checkout button with glass effect
-
----
-
 ## 🏗️ Architecture
 
 ### Design Pattern
