@@ -100,7 +100,7 @@ A beautiful, modern iOS drink ordering app built with SwiftUI featuring glass mo
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/DrinksCafee.git
+git clone https://github.com/sarakhater/Drink-Cafe-SwiftUI.git
 cd DrinksCafee
 ```
 
@@ -244,11 +244,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License.
 
-## 👨‍💻 Author
+## 👨‍💻 Developer
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+**Sara Khater**
+- GitHub: [@S](https://github.com/yourusername)araKhater
+- Email: sarakhatet2014@gmail.com
 
 ## 🙏 Acknowledgments
 
